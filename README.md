@@ -29,3 +29,6 @@
   
   [universidad de Costa Rica](http://www.ucr.ac.cr)
   
+  <a href="http://www.ogc.org/">OPEN GEOSPATIAL CONSORTIUM</A>
+  
+   <a href="httpS://www.UCR.AC.CR/">Universidad de Costa Rica</A>
