@@ -16,4 +16,9 @@
 
 <em>Texto en Italica en html</em>
 
+**Texto MD en negrita con asteriscos**, _texto en MD en negrita con guion bajo_
 
+<strong>Texto HTML en negrita<strong>
+  
+  >"En un lugar de la mancha...
+  >"Miguel de Cervantes
