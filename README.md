@@ -11,3 +11,9 @@
 <h4>Encabezado HTML de nivel 4</h4>
 <h5>Encabezado HTML de nivel 5</h5>
 <h6>Encabezado HTML de nivel 6</h6>
+
+*Texto en Italica con asterisco*, _texto en italica con _ bajo_
+
+<em>Texto en Italica en html</em>
+
+
