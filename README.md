@@ -20,5 +20,9 @@
 \
 <strong>Texto HTML en negrita<strong>
   
-  >"En un lugar de la mancha...
-  >"Miguel de Cervantes
+  >"En un lugar de la mancha...  
+  >"de cuyo nombre no quiero acordarme"
+  
+  Miguel de Cervantes (1605)
+  
+  
