@@ -21,8 +21,11 @@
 <strong>Texto HTML en negrita<strong>
   
   >"En un lugar de la mancha...  
-  >"de cuyo nombre no quiero acordarme"
+  >"de cuyo nombre no quiero acordarme..."
   
   Miguel de Cervantes (1605)
   
+  <blockquote>En un lugar de la mancha...</blockquote>
+  
+  [universidad de Costa Rica](http://www.ucr.ac.cr)
   
