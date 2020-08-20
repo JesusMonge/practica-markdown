@@ -33,6 +33,10 @@
   
    <a href="httpS://www.UCR.AC.CR/">Universidad de Costa Rica</A>
    
+   Imagen remotos
    ![](https://www.r-project.org/logo/Rlogo.png)
 
 <img src="https://www.r-project.org/logo/Rlogo.png" alt="Logo de R" width="200">
+
+Imagen local del logo R
+![](Rlogo.png)
