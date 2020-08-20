@@ -40,3 +40,28 @@
 
 Imagen local del logo R
 ![](Rlogo.png)
+
+Lista Numerada Markdown
+1.Primer elemento
+2. Segundo elemento
+3. Tercer elemento
+
+Lista numerada HTML
+<ol>
+  <li>Primer elemento</li>
+  <li>Segundo elemento</li>
+  <li>Tercer elemento</li>
+</ol>
+
+Lista no niumerada Markdown
+-Primer elemento
+-segundo elemento
+-tercer elemento
+
+Lista no numerada HTML
+<ul>
+  <li>Primer elemento</li>
+  <li>Segundo elemento</li>
+  <li>Tercer elemento</li>
+</ul>
+  
