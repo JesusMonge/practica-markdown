@@ -33,4 +33,6 @@
   
    <a href="httpS://www.UCR.AC.CR/">Universidad de Costa Rica</A>
    
-   ![](https://www.r-project.org/logo/logoR.png)
+   ![](https://www.r-project.org/logo/Rlogo.png)
+
+<img src="https://www.r-project.org/logo/Rlogo.png" alt="Logo de R"
