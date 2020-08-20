@@ -35,4 +35,4 @@
    
    ![](https://www.r-project.org/logo/Rlogo.png)
 
-<img src="https://www.r-project.org/logo/Rlogo.png" alt="Logo de R"
+<img src="https://www.r-project.org/logo/Rlogo.png" alt="Logo de R" width="200">
