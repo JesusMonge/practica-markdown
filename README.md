@@ -68,7 +68,7 @@ Lista no numerada HTML
 
 <table>
   <tr><th>Nombre</th><th>Apellido</th></tr>
-  <tr><td>JESUS</td><td>**mONGE**</td></tr>
-  <tr><td>NRAUL</td><td>mEJIA</td></tr>
+  <tr><td>JESUS</td><td>MONGE</td></tr>
+  <tr><td>RAUL</td><td>MEJIA</td></tr>
 </table>
   
